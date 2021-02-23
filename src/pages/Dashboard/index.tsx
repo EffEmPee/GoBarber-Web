@@ -1,4 +1,4 @@
-import React, { Profiler } from 'react';
+import React from 'react';
 
 import { FiClock, FiPower } from 'react-icons/fi';
 import {
